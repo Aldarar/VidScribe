@@ -1,0 +1,6 @@
+# Sekrety NIGDY do repozytorium
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+venv/
