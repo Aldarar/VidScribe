@@ -1,0 +1,4 @@
+[server]
+# Maksymalny rozmiar uploadu w MB (domyślnie 200). Community Cloud ma ograniczone
+# zasoby, więc nie zwiększaj tego bez potrzeby.
+maxUploadSize = 200
